@@ -1,1 +1,14 @@
-print('as')
+from PyQt5.QtCore import Qt, QFile, QTextStream
+from PyQt5.QtWidgets import QApplication, QVBoxLayout, QWidget, QHBoxLayout, QLabel, QRadioButton, QPushButton, QGroupBox, QButtonGroup, QTextEdit, QListWidget, QLineEdit
+import json
+app = QApplication([]) 
+win = QWidget()
+
+rfile = open('list.json', 'r', encoding='UTF-8')
+lib = json.load(rfile)
+
+
+win.setWindowTitle('ВАШ Текст!')
+win.setFixedSize(900, 700)
+
+win.show()
