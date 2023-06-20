@@ -1,4 +1,4 @@
-# Exotic Hunting ![https://github.com/locustdm/algoritmika_python/blob/main/task3.md](https://img.itch.zone/aW1nLzM2MjgwNTEuZ2lm/original/Y9Sf09.gif)
+# Exotic Hunting ![https://github.com/locustdm/algoritmika_python/blob/main/task3.md](awf.jpg)
 [Ссылка на игру]()\
 **Жанр**: Психологическийхоррор, хоррор
 **Разработчик**: Артём\
