@@ -25,8 +25,8 @@
 **О разработчике:**
 Хочу отопление себе домой . Это идея посетила меня при разработке данной игры.
 
-![Территория](https://img.itch.zone/aW1nLzUxMzU1NDgucG5n/original/cIOU%2FP.png) \
-![Котик](https://img.itch.zone/aW1nLzYxMzA0MjIuZ2lm/original/x7XLh2.gif) \
+![Глаз](<img src="eye.jpg" width=300 height=300>) \
+![Сфера](<img src="sphere.jpg" width=300 height=300>) \
 ![Лисичка](https://img.itch.zone/aW1nLzYwMzUzMzEuZ2lm/original/U36zqc.gif)
 ```python
 print(Игра сделана на Python :) )
