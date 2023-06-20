@@ -29,5 +29,5 @@
 <img src="sphere.png" width=400 height=300> \
 ![Лисичка](https://img.itch.zone/aW1nLzYwMzUzMzEuZ2lm/original/U36zqc.gif)
 ```python
-print(Игра сделана на Python :) )
+print('Игра сделана на Python :')
 ```
