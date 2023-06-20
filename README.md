@@ -25,7 +25,7 @@
 **О разработчике:**
 Хочу отопление себе домой . Это идея посетила меня при разработке данной игры.
 
-![Глаз](<img src="eye.png" width=300 height=300>) \
+![Глаз](<img src="(https://cdn1.ozone.ru/s3/multimedia-8/6425528756.jpg)" width=300 height=300>) \
 ![Сфера](<img src="sphere.png" width=300 height=300>) \
 ![Лисичка](https://img.itch.zone/aW1nLzYwMzUzMzEuZ2lm/original/U36zqc.gif)
 ```python
